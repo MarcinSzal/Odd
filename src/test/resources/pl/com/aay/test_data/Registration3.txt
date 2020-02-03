@@ -1,0 +1,18 @@
+{
+	"FirstName":"Wojciech",
+	"LastName":"Brzosko",
+	"Phone":"691396250",
+	"Email":"mszalbierz@wp.pl",
+	"Address":"Kowalska 25",
+	"Address2":"--------",
+	"City":"Wroc³aw",
+	"State/Province":"New Orleans",
+	"Postal Code":"51-171",
+	"Country":"POLAND",
+	"UserName":"Bosko1",
+	"Password":"Bosko2",
+	"ConfirmP":"Bosko2",
+	"SelectValue":"POLAND"
+}
+	
+		

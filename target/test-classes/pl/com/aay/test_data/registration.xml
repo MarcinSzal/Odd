@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registration>
+	<first_name>first name xml</first_name>
+	<last_name>last name xml</last_name>
+	<marital_status>Single</marital_status>
+	<hobby>Dance</hobby>
+	<country>India</country>
+	<month>1</month>
+	<day>1</day>
+	<year>2014</year>
+	<phone_number>777666555</phone_number>
+	<user_name>user xml</user_name>
+	<email>xml@onet.pl</email>
+	<about>about xml</about>
+	<password>xml</password>
+	<confirm_password>xml</confirm_password>
+</registration>

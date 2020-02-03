@@ -1,0 +1,16 @@
+{
+	"firstName":"first name json1",
+	"lastName":"last name json1",
+	"maritalStatus":"Single",
+	"hobby":"Dance",
+	"country":"India",
+	"month":"1",
+	"day":"1",
+	"year":"2014",
+	"phoneNumber":"777666555",
+	"userName":"user json1",
+	"email":"json1@onet.pl",
+	"about":"about json1",
+	"password":"json1",
+	"confirmPassword":"json1"
+}
